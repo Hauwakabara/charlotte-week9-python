@@ -1,0 +1,7 @@
+Well: WELL-01
+Pressure: 17236.9 kPa
+Temperature: 60.0 °C
+Sensor active: True
+Pressure: 20684.3 kPa
+Temperature: 0.0 °C
+Fixed pressure: 21718.5 kPa
