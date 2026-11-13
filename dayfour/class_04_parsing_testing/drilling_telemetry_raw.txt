@@ -1,0 +1,12 @@
+# Drilling telemetry raw log - Class 4
+# Format: well_id|timestamp|pressure|pressure_unit|temperature|temperature_unit|status
+
+WELL-01|2026-01-01T10:00:00|100|psi|212|F|ACTIVE
+WELL-02|2026-01-01T10:05:00|500|kPa|100|C|ACTIVE
+WELL-01|2026-01-01T10:10:00|150|psi|150|F|OFFLINE
+
+WELL-03|2026-01-01T10:15:00|-10|psi|80|F|ACTIVE
+WELL-04|2026-01-01T10:20:00|200|bar|90|F|ACTIVE
+WELL-05|2026-01-01T10:25:00|abc|psi|90|F|ACTIVE
+WELL-06|not-a-date|120|psi|90|F|ACTIVE
+WELL-07|2026-01-01T10:30:00|120|psi|90|F|UNKNOWN
